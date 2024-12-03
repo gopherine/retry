@@ -1,4 +1,4 @@
-module github.com/rogpeppe/retry
+module github.com/gopherine/retry
 
 go 1.18
 

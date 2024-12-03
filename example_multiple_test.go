@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/rogpeppe/retry"
+	"github.com/gopherine/retry"
 )
 
 // This example demonstrates running multiple retry iterators

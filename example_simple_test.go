@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/rogpeppe/retry"
+	"github.com/gopherine/retry"
 )
 
 type Foo struct{}
